@@ -47,7 +47,7 @@ This is all you need to use the GPS NMEA sentence data.
 
   - Standard:
 ```` 
-    GPGGA, GPGSA, GPGSV, GPRMC, GPVTG
+    GPGGA, GPGSA, GPGSV, GPRMC, GPVTG, GNGGA, GNGSA, GNGSV, GNRMC, GNVTG
 ````
 
 * **NMEA Generation** of "standard" and custom sentences.
